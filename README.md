@@ -1,4 +1,4 @@
 ========================================
 Gibberish Meditation
 ========================================
-A file for myself ,there is nothing about Computer technology or Coding issue.
+自己的心情记录，这里是除Computer外另一个安静的我。
